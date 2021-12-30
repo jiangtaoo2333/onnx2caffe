@@ -10,7 +10,7 @@ onnx模型转caffe模型的工具
 
 ## Test
 ```
-python convertCaffe.py
+python convertCaffe.py ./models/model_best_sim.onnx
 ```
 
 ## Reference
